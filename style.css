@@ -1,0 +1,38 @@
+/* heading*/
+h1{
+    text-align: center;
+    background-color: #325288;
+    font-size: 50px;
+    color: burlywood;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+
+/* body*/
+body{
+    background-color:#f4eee8;
+    margin-top: 50px;
+}
+.main{
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    color:#325288;
+}
+hr{
+    border:none;
+    border-top:5px dotted black;     
+    height:1px;
+    width:25%;
+}
+.skills{
+    text-align: left;
+    margin-left: 50px;
+    font-size: 25px;
+    color: #325288;
+}
+
+.list{
+    color: #325288;
+    font-size: 19px;
+}
